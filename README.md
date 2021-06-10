@@ -7,20 +7,20 @@ Developed WebApp similar to YouTube using MERN stack and AWS S3. Users can view,
 <br>
 <h2>Home Screen</h2>
 <br>
-<img src="funtube1.jpeg" width="800px" height="600px" alt="image1"></img>
+<img src="funtube1.jpeg" width="600px" height="400px" alt="image1"></img>
 <br>
 <h2>Video Screen</h2>
 <br>
-<img src="funtube2.jpeg" width="800px" height="600px" alt="image2"></img>
+<img src="funtube2.jpeg" width="600px" height="400px" alt="image2"></img>
 <br>
 <h2>Profile Screen</h2>
 <br>
-<img src="funtube3.jpeg" width="800px" height="600px" alt="image3"></img>
+<img src="funtube3.jpeg" width="600px" height="400px" alt="image3"></img>
 <br>
 <h2>Video Action Screen</h2>
 <br>
-<img src="funtube4.jpeg" width="800px" height="600px" alt="image4"></img>
+<img src="funtube4.jpeg" width="600px" height="400px" alt="image4"></img>
 <br>
 <h2>Video Upload Screen</h2>
 <br>
-<img src="funtube5.jpeg" width="800px" height="600px" alt="image5"></img>
+<img src="funtube5.jpeg" width="600px" height="400px" alt="image5"></img>
